@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\jsr305-2.0.1_11eb1216c49c87a34c5a08050905bc673ba8b192.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a0c8908138668dbba28cf1b4bd93b3177161a955">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_67b5d9f109fc2881a4d0e3e0b0addd21dd1af414\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\okhttp-3.2.0_de2ce3c65e74950a48d107e71bb86d0453cdc6c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\commons-cli-1.2_bc371e7c2fc427e054ee79d640c650d473a96604.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\aad8cd6534234ef98e0e16f0f1bca8427a8b8bed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\classes_784afb2b5eddafbb69b6e51edcb97f619533d9b5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.8\cf615176cd1177edf71d3c9605f8dc148fede6be\otto-1.3.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\transforms\dex\debug\folders\1000\10\otto-1.3.8_d9218980482fa876ba14654abdbe9f9ac1bd2989\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\62f4b5b2406e838fc5112a585c7d12694e9d99cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\classes_047f25c95fe07113f9f95e25098eff7bc9d6a6a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\195cc6b76d4012783266fb7cbc56e1174cc8642a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\classes_b6ee4b178970a7718dc4f915136c854cb7c57d5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\199a3f1f8d33ae8260f1340cddb9bd5660fbc086\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\classes_1647228a1abde3cfd79ed76717b7191c2efa081e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\c889c4c975cda72709b8669768d8195216126543\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caa3391c824ef6514b70aa0db73a3f37c4ac33ef">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\classes_f8f2c1676ff51496fb1cca43e873a427debe1739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\4bcc53447b0f7138748144bf31641da89a096e37\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\classes_0292fba9a280f06b8679eaa715e93db1306056c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\c579ec4558db6c169f43ecf5ec4ff7590c9ece26\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca8312f2cfd8c79bc4878e9235391bfb6af7dad7">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\classes_34a77bc13c4c7ce845c020129ef4d5efb2eb782d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\ca718421bc8ab414907d08e4b20aa74255b8cd76\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\classes_54acc444cfee5b3cd24994cef464b8895a5e6b3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\63fcb399988311931263d2fc10be698265d0e7bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\classes_433fd0dcf221f2d7047c26711a2eceea54d37ad2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\c122096b13c0a325dda3724a7193a288bdc258ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\classes_27e2850b034a8447b7aac9ca01b3c41fcbbe1e04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_eb0d7dff891e4a231b614f6bf625929bba99077b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_af69d4fbb8a7d5ab19053e623d928df714fbde3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\okio-1.6.0_dd145cba5dba69a17bb4ba5055d47a7c2b9e8031.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.8\cf615176cd1177edf71d3c9605f8dc148fede6be\otto-1.3.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\otto-1.3.8_d9218980482fa876ba14654abdbe9f9ac1bd2989.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho\1.1.1\ab1142c5adfa474e7494cba19fd9fc6e73207960\stetho-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab1142c5adfa474e7494cba19fd9fc6e73207960">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\stetho-1.1.1_22ebf176aec27c2c8bc2bfe5fcc76ad47f050f6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\fa9bb8734bd05aa17fb3df5dc71f4ab20af9afd0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\classes_1357a0a61ae86f7f38e4b34351d63add4bb22c3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\d6c4cddf9d6adc84b96b0984fd82b0cefb9291b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\classes_6c952a2580066f239773e9c936e9bb4944eebcfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\9482962b62dd67db50db81a3b825aaaf705942cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ffd97c466e0021572f3c7333839c71ecdf393ed">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\classes_3b8ba48299c1e83048e67816bb6ee9ad411e9ce4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\b8a5139a1c3c70b1da51b6b1777043486fd91282\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\classes_828befc8e9ad0203e53a16c104725a2e75563acb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\4674745f1c3fef061a2a076ae3af30b2433cb77e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb20e425aa641153760dbff7f5afc666f94b5647">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\classes_597a91d0f6f20a89736f9e186b7d01dd7b13ae14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\476e10d0c6f9835a30a8aa5e72837da16d98159a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\classes_0b6ed74e5732d15cd69a546df7a6d0a396d4642e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\dea050e0a779f80d49ed5c9e0e5e06557978c3d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2019a50eefd9dd0c217157ff4bfc27007e8c057f">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\classes_6c34c3cb6efa58e0e6aef22f88a804d0db5efdfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\9dc3c855bd53481bd406593037606697d45e0f7c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\classes_c38c5e773b77fccf999f4971843440bb33ae7bd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Owner\Desktop\Calendar3S\app\build\intermediates\pre-dexed\release\support-annotations-25.3.1_96bbcb14bee33269911bc028d709954cee88920b.jar" />
+    </item>
+
+</items>

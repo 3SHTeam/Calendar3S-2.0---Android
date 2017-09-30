@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+    android:gravity="center"
+    android:orientation="vertical">
+
+  <!--  날짜표시 텍스트뷰-->
+  <TextView
+      android:id="@+id/ViewText"
+      android:layout_width="100dp"
+      android:layout_height="25dp"
+      android:gravity="center_horizontal"
+      android:textSize="15sp" />
+
+
+    <!--android:text="AAA"-->
+  <TextView
+
+      android:id="@+id/schedule1"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="3dp"
+      android:background="#988c9f"
+      android:text="AAA"
+
+      />
+  <!--
+    android:text="BBB"-->
+  <TextView
+      android:id="@+id/schedule2"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="3dp"
+      android:background="#00ffaa" />
+
+  <!-- android:text="CCC"-->
+  <TextView
+      android:id="@+id/schedule3"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="3dp" />
+
+</LinearLayout>
